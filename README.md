@@ -6,7 +6,7 @@ NFT marketplace Smart Contract.
 ---
 
 ## Features
-* Create a new ERC721 collection.
+* Create a new ERC721 collection or ERC1155 collection.
 * Support setting royalty fees
 * Sell (list item) NFT on the marketplace.
 * Offer listed items on the marketplace.
